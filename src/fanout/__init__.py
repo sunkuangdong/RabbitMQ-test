@@ -1,0 +1,2 @@
+"""Fanout exchange example."""
+
